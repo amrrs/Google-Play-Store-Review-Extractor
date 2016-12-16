@@ -9,7 +9,7 @@ import pandas as pd
 chrome_options = webdriver.ChromeOptions()
 
 #setting  up local path of chrome binary file 
-chrome_options.binary_location = "C:\\Users\\SA31\\Downloads\\dt\\Win_337026_chrome-win32\\chrome-win32\\chrome.exe"
+chrome_options.binary_location = "\\chrome-win32\\chrome.exe"
 
 #creating Chrome webdriver instance with the set chrome_options
 driver = webdriver.Chrome(chrome_options=chrome_options)
