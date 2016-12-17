@@ -9,3 +9,9 @@ Essentials:
 * Chrome Webdriver
 
 ![Alt text](/reviews_list.PNG)
+
+What's next:
+
+* Getting App ID (com.xxxxxx) from the user
+* Extracting other key elements like Rating, Review Title
+* Auto-Setting Number of iterations 
