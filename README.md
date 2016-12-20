@@ -1,5 +1,5 @@
 # Google Play Store Review Extractor
-Extract/Scrape Google Play Store Reviews of any Android Application and writes it in a csv file for further Data Exploration!
+Extract/Scrape Google Play Store Reviews of any Play Store Android Application and writes it in a csv file for further Data Exploration!
 
 Essentials:
 
