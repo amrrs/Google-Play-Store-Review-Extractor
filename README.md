@@ -13,5 +13,6 @@ Essentials:
 What's next:
 
 * Getting App ID (com.xxxxxx) from the user
-* Extracting other key elements like Rating, Review Title
+* ~~Extracting other key elements like Rating, Review Title~~ Done!
 * Auto-Setting Number of iterations 
+* Removing Duplicate Entries
