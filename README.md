@@ -1,4 +1,6 @@
 # Google Play Store Review Extractor
+
+
 Extract/Scrape Google Play Store Reviews of any Play Store Android Application and writes it in a csv file for further Data Exploration!
 
 Essentials:
@@ -16,3 +18,7 @@ What's next:
 * ~~Extracting other key elements like Rating, Review Title~~ Done!
 * Auto-Setting Number of iterations 
 * Removing Duplicate Entries
+
+### Note:
+
+I'm not actively maintaining this project. Please let me know if this works or not!
