@@ -1,3 +1,5 @@
+[![CI](https://github.com/amrrs/Google-Play-Store-Review-Extractor/actions/workflows/tests.yml/badge.svg)](https://github.com/amrrs/Google-Play-Store-Review-Extractor/actions/workflows/tests.yml)
+
 # Google Play Store Review Extractor
 
 Modern command line utility for downloading reviews of an Android application
